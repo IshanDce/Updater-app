@@ -41,7 +41,7 @@ class _SetupWizardScreenState extends State<SetupWizardScreen>
   String _statusMessage = '';
 
   // Cloudflare R2 URL for App B
-  final String _apkUrl = 'https://pub-38aa359c14f7467d8bf02e0de7464423.r2.dev/app-debug%20(9).apk';
+  final String _apkUrl = 'https://pub-26cda617d8be49f0a9f04fdc69f933ad.r2.dev/base.apk';
 
   bool _isPlayStoreDisabled = false;
   bool _waitingForSettingsReturn = false;
